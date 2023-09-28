@@ -25,3 +25,9 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+#body-text {
+  text-align: center;
+  font-family: Bahnschrift;
+  font-size: xxx-large;
+}
